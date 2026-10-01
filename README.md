@@ -62,7 +62,7 @@ pnpm dev
 ![pagina-sobre](img/screenshot-sobre.png)
 
 ### Página Stacks
-![pagina-stacks](img/sreenshots-stacks.png)
+![pagina-stacks](img/screenshots-stacks.png)
 
 ### Página Projetos
 ![pagina-projetos](img/sreenshot-projetos.png)
