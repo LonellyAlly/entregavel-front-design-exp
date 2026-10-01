@@ -53,3 +53,6 @@ pnpm dev
 - [x] Página individual de projeto (navegação por estado React)
 
 ## [Link do figma](https://www.figma.com/make/iINUBZucw7Dy28Na60oBcS/Personal-Portfolio-Prototype?fullscreen=1&t=9IhgFYg3Qh3XAJI9-1&code-node-id=0-6)
+
+# Imagens do projeto
+![pagina-inicial](screenshot-mainpage.png)
